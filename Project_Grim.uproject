@@ -41,12 +41,12 @@
 		},
 		{
 			"Name": "CronusHitstop",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1c0201f6452a48d88254b8cdc877dcc0"
 		},
 		{
 			"Name": "MaterialNodesQueen",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/81f331bf5ab147eebf93ca4e88b69d41"
 		},
 		{
