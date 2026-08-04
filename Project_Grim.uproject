@@ -3,6 +3,16 @@
 	"EngineAssociation": "5.7",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Project_Grim",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "AnimationBudgetAllocator",
